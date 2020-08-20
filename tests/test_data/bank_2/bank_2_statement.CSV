@@ -1,0 +1,6 @@
+Details,Posting Date,Description,Amount,Type
+DEBIT,9/29/19,description_5,-100.5,DEBIT_CARD
+DEBIT,9/20/19,description_6,-500,MISC_DEBIT
+CREDIT,9/15/19,description_7,10,ACH_CREDIT
+DEBIT,9/25/19,description_8,22,ACCT_XFER
+DEBIT,9/5/19,payment_1,88,ACCT_XFER
